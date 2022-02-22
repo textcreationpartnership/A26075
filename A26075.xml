@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the honourable Society of the Natives of the County of Kent November the 21th, 1700, at St. Mary-le-Bow, London / by William Assheton ...</title>
+            <author>Assheton, William, 1641-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26075</idno>
+            <idno type="STC">Wing A4043</idno>
+            <idno type="STC">ESTC R36641</idno>
+            <idno type="EEBO-CITATION">15747144</idno>
+            <idno type="OCLC">ocm 15747144</idno>
+            <idno type="VID">104620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104620)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1164:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the honourable Society of the Natives of the County of Kent November the 21th, 1700, at St. Mary-le-Bow, London / by William Assheton ...</title>
+                  <author>Assheton, William, 1641-1711.</author>
+               </titleStmt>
+               <extent>[6], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Back ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title page reads: Dr. Assheton's sermon preached before the honourable Society of the County of Kent, November 21th, 1700.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 1st, X, 31 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104620:1" rendition="simple:additions"/>
+            <p> A SERMON Preached before the Honourable SOCIETY Of the NATIVES of the County of <hi>KENT, November</hi> the 21th, 1700.</p>
+            <p>At St. <hi>Mary-le-Bow, LONDON.</hi>
+            </p>
+            <p>
+               <hi>By</hi> WILLIAM ASSHETON, <hi>D. D. Rector of</hi> Beckenham <hi>in</hi> Kent; <hi>and Chaplain to His</hi> Grace <hi>the Duke of</hi> Ormond.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Back,</hi> (Bookſeller to the ſaid Honour<g ref="char:EOLhyphen"/>able Society,) at the <hi>Black Boy</hi> on <hi>London-Bridge,</hi> 1700</p>
+            <pb facs="tcp:104620:2"/>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:104620:2" rendition="simple:additions"/>
+            <p>Dr. <hi>ASSHETON</hi>'s SERMON, Preached before the Honourable SOCIETY OF THE County of <hi>KENT, November</hi> 21th, 1700.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:104620:3"/>
+            <head>
+               <hi>Veneris</hi> xxij. <hi>die Novemb.</hi> 1700.</head>
+            <p>IT is Ordered at a General Meeting of the Stewards for the Society of the County of <hi>Kent,</hi> That their hearty Thanks be given to Dr. <hi>Aſſheton,</hi> for his Sermon Preached on the 21th Inſtant, at St. <hi>Mary le Bow;</hi> and that He be deſired to Print the ſame.</p>
+            <closer>
+               <signed>
+                  <hi>Edmund Riggs,</hi> Treaſurer.</signed>
+            </closer>
+            <pb facs="tcp:104620:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:104620:4"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:104620:4"/>
+            <head>To <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e much Honoured,
+<list>
+                  <item>
+                     <hi>Mr.</hi> Edmund Riggs,</item>
+                  <item>
+                     <hi>Capt</hi> Tho. Robinſon,</item>
+                  <item>
+                     <hi>Mr.</hi> John Bulfinch,</item>
+                  <item>
+                     <hi>Mr.</hi> David Dennis,</item>
+                  <item>
+                     <hi>Mr.</hi> John Back,</item>
+                  <item>
+                     <hi>Mr.</hi> Daniel Lane,</item>
+                  <item>
+                     <hi>Mr.</hi> John Bridgar,</item>
+                  <item>
+                     <hi>Mr.</hi> Chriſtopher Denne,</item>
+                  <item>
+                     <hi>Mr.</hi> Edward Rooke,</item>
+                  <item>
+                     <hi>Mr.</hi> Henry Fuller,</item>
+                  <item>
+                     <hi>Mr.</hi> Ri. Whittingham,</item>
+                  <item>
+                     <hi>Mr.</hi> Richard Jones.</item>
+               </list>
+            </head>
+            <head>
+               <hi>STEWARDS of the</hi> KENTISH-FEAST.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THough I am not a Native of your County, yet I heartily bleſs God, that I am an Inhabitant. For I do with the greateſt Thankfulneſs acknowledge, that my Lot is fallen in a pleaſant Place amongst you: Where for many Years I have enjoyed the Satisfaction of a moſt comfortable Retirement. And being thus far yours, by
+<pb facs="tcp:104620:5"/> 
+               <hi>Affection</hi> and <hi>Intereſt,</hi> I could not think it decent to Diſpute your Commands, either for the Preaching or Publiſhing this ſhort Sermon.</p>
+            <p>That it may, through God's Bleſſing, be In<g ref="char:EOLhyphen"/>ſtrumental to promote thoſe Great and Noble Ends of your Yearly Meetings; <hi>viz. Friend<g ref="char:EOLhyphen"/>ſhip</hi> and <hi>Charity,</hi> is the Prayer of</p>
+            <closer>
+               <salute>Worthy Gentlemen,</salute>
+               <signed>
+                  <hi>Your moſt Humble, and Faithful Servant,</hi> William Aſſheton.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:104620:5"/>
+            <head>A SERMON Preached at the <hi>Kentiſh-Feaſt.</hi>
+            </head>
+            <epigraph>
+               <bibl>1 Cor .X. 31.</bibl>
+               <q>Whether therefore ye Eat or Drink, or whatſoever ye do, do all to the Glory of God.</q>
+            </epigraph>
+            <p>THough the Particle <hi>Therefore</hi> doth plainly refer to the preceding Verſes, and would thence oblige me to examine the Context; yet that I may the better contract my Diſcourſe, (wherein I deſign to be very brief) I ſhall conſider the words <hi>Abſolutely,</hi> without any
+<pb n="2" facs="tcp:104620:6"/> dependance upon the preceding or follow<g ref="char:EOLhyphen"/>ing Verſes.</p>
+            <p>And I ſhall treat of them in this Method.</p>
+            <p n="1">I. I ſhall examine the meaning of this Ex<g ref="char:EOLhyphen"/>preſſion, <hi>Do all to the Glory of God.</hi>
+            </p>
+            <p n="2">II. How can <hi>Eating</hi> and <hi>Drinking,</hi> with o<g ref="char:EOLhyphen"/>ther common Paſſages of your Lives, <hi>what<g ref="char:EOLhyphen"/>ſoever ye do,</hi> be done to God's Glory?</p>
+            <p n="3">III. I ſhall make particular Application with reſpect to the Occaſion of this ſolemn Meeting.</p>
+            <p n="1">I. What is it, to <hi>do all to the Glory of God<g ref="char:punc">▪</g>
+               </hi> By the Glory of God we are to underſtand God himſelf; or the eminent Excellency of the Divine Nature, diſcovered and made known to us in thoſe Perfections, which we commonly call the Attributes of God: Such as his <hi>Goodneſs,</hi> his <hi>Wiſdom,</hi> his <hi>Holineſs,</hi> and his <hi>Power.</hi>
+            </p>
+            <p>And we are ſaid to <hi>do all to the Glory of God.</hi> Not by making him more Glorious; or by adding to his Glory in any of theſe Inſtances (which being Infinite can have
+<pb n="3" facs="tcp:104620:6"/> nothing added to them): But to <hi>do all to the Glory of God,</hi> it denotes no more than to publiſh and ſhew forth his Glory. <hi>Sing</hi> 
+               <note place="margin">Pſal. 66. 1.</note> 
+               <hi>Praiſes to the honour of his Name, make his Praiſe to be glorious: i.e.</hi> Not make his Eſſence to be more glorious, than it is in it ſelf. But, make his Praiſe to be more and more glorious in the Eye and Eſteem of Men: That ſo <hi>his Power, his Glory, and</hi> 
+               <note place="margin">Pſal. 145. 12</note> 
+               <hi>Mightineſs of his Kingdom, might be known unto Men.</hi> And that Men might <hi>aſcribe unto the Lord the Glory due unto his Name.</hi> 
+               <note place="margin">Pſal. 96. 8.</note>
+            </p>
+            <p>In ſhort, When the <hi>Wiſdom,</hi> the <hi>Power,</hi> the <hi>Juſtice,</hi> the <hi>Mercy</hi> of God, with other his Divine Attributes, are confeſſed and acknowledged, are reverenced and adored by any of our Actions, then in Scripture Language, God is glorified: Or, ſuch a thing is done to the Glory of God.</p>
+            <p n="2">II. How can <hi>Eating</hi> and <hi>Drinking,</hi> which are but natural Actions, be ſaid to be done to God's Glory?</p>
+            <p>To this I Anſwer,</p>
+            <p>That the beſt Expedient we can propoſe,
+<pb n="4" facs="tcp:104620:7"/> to honour God in any Inſtance, is Obedi<g ref="char:EOLhyphen"/>ence to his Commands.</p>
+            <p>When therefore we <hi>Eat</hi> and <hi>Drink</hi> in ſuch a manner, and with ſuch Circum<g ref="char:EOLhyphen"/>ſtances, and for ſuch Ends and Reaſons as God hath directed and appointed, then theſe and ſuch like natural Actions, are done to his Glory.</p>
+            <p>Now the known Ends of <hi>Eating</hi> and <hi>Drinking</hi> are theſe;</p>
+            <p>
+               <hi>The nouriſhing of our Bodies; the refreſhing of our Spirits, and preſerving our Health.</hi> I ſay, <hi>The refreſhing of our Spirits;</hi> for doubt<g ref="char:EOLhyphen"/>leſs Meats and Drinks are not only allowed us for Neceſſity; for the meer Support of Nature; but alſo for Satisfaction and De<g ref="char:EOLhyphen"/>light. God hath not only given Man Bread to ſtrengthen him, but Oyl to make him a chearful Countenance, and Wine to make glad his Heart.</p>
+            <p>But when Meats or Drinks are taken in ſuch Exceſs, that by oppreſſing Nature, <hi>they hinder Digestion; drown and ſuffocate the Spirits; diſorder the Faculties; hinder the free uſe of Reaſon; and thereby make Men</hi>
+               <pb n="5" facs="tcp:104620:7"/> 
+               <hi>unfit for Buſineſs; and indiſpoſe them either for Civil or Religious Duties;</hi> then, and in ſuch Caſes, the uſe of them is irregular and unlawful; diſhonourable to God, and deſtructive to themſelves.</p>
+            <p>Theſe Exceſſes are ſeverely reflected up<g ref="char:EOLhyphen"/>on in the Holy Scriptures.</p>
+            <q>Woe unto them that riſe up early in the <note place="margin">Iſa. 5. 11, 12.</note> Morning, that they may follow ſtrong Drink, that continue until Night, till Wine inflame them And the Harp, and the Viol, the Tabret and Pip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and Wine are in their Feaſts; but they regard not the work of the Lord, neither conſider the operation of his Hands.</q>
+            <p>Wine and Muſick, and Feaſting, are doubtleſs very lawful: But if Men will ſo far indulge themſelves in theſe Enjoy<g ref="char:EOLhyphen"/>ments, as <hi>not to regard the work of the Lord; i. e.</hi> If they Eat and Drink to that Exceſs, ſo as to drown their Reaſon, ſo as not rightly to apprehend why theſe Refreſh<g ref="char:EOLhyphen"/>ments were given them: If they are ſo far Dozed, that they are uncapable to bleſs God for them, and to acknowledge his Bounty in the uſe of theſe, and all other their Mercies.</p>
+            <pb n="6" facs="tcp:104620:8"/>
+            <p> In ſhort, If they Eat and Drink only to gratifie their Appetites, not conſidering that their Health, their Strength, and their Time are to be improved to God's Glory, then there is a repeated <hi>Woe</hi> denounced againſt them, <hi>v.</hi> 22. <hi>Woe unto them that are mighty to drink Wine, and Men of ſtrength to mingle strong Drink.</hi> Woe unto them that thus Glory in their Shame; or, that make their Shame their Glory.</p>
+            <p>'Tis therefore a very ſeaſonable Admo<g ref="char:EOLhyphen"/>nition of our Bleſſed Saviour, <hi>Take heed to your ſelves, lest at any time your hearts be</hi> 
+               <note place="margin">Luke 21. 34.</note> 
+               <hi>overcharged with Surfetting and Drunkenneſs, and Cares of this Life, and ſo that Day come upon you unawares.</hi>
+            </p>
+            <q>Let us walk honestly as in the Day; not in <note place="margin">Rom. 13. 13</note> Rioting and Drunkenneſs.</q>
+            <p>The which Caution of St. <hi>Paul,</hi> is elſe<g ref="char:EOLhyphen"/>where enforced with this awakening Sen<g ref="char:EOLhyphen"/>tence, <hi>Drunkards ſhall not inherit the King<g ref="char:EOLhyphen"/>dom of God.</hi> 
+               <note place="margin">1 Cor. 6. 10.</note>
+            </p>
+            <p>But I ſhall not enlarge any further on ſo harſh and unpleaſing a Subject.</p>
+            <pb n="7" facs="tcp:104620:8"/>
+            <p> There are indeed great Irregularities committed in the World, and which ought ſharply to be reproved, but not fit to be mentioned in this Place.</p>
+            <p>'Tis not decent to inſiſt on thoſe ſcanda<g ref="char:EOLhyphen"/>lous Exceſſes, before ſuch a great and ge<g ref="char:EOLhyphen"/>nerous Audience.</p>
+            <p>Leaving therefore theſe Blemiſhes, I ſhall crave leave to remind you,</p>
+            <p n="3">III. What are the Reaſons of this Days So<g ref="char:EOLhyphen"/>lemnity: Or, in the Language of my Text, of your <hi>Eating</hi> and <hi>Drinking</hi> toge<g ref="char:EOLhyphen"/>ther on this Day.</p>
+            <p>Now the Deſign of this Day's Solem<g ref="char:EOLhyphen"/>nity is plainly <hi>Twofold.</hi>
+            </p>
+            <list>
+               <item>I. Firſt, <hi>To maintain Friendſhip.</hi>
+               </item>
+               <item>II. Secondly, <hi>To promote Charity.</hi>
+               </item>
+            </list>
+            <p n="1">I. <hi>First,</hi> The firſt Deſign of your preſent Meeting is, <hi>to maintain and improve your Friendſhip.</hi>
+            </p>
+            <p>A moſt Noble and truly Generous De<g ref="char:EOLhyphen"/>ſign: Since a true and well-regulated
+<pb n="8" facs="tcp:104620:9"/> Friendſhip, is not only the greateſt Plea<g ref="char:EOLhyphen"/>ſure and Satisfaction to your own Breaſts; but alſo is of equal Benefit and Advantage to others.</p>
+            <p>Now the ſociable Life of Friends, or the mutual Converſation of Wiſe and Ver<g ref="char:EOLhyphen"/>tuous Perſons, is of great Advantage in ſeveral Reſpects.</p>
+            <list>
+               <item>1. <hi>By improving our <g ref="char:V">Ʋ</g>nderstandings, and rectifying our Judgments.</hi>
+               </item>
+               <item>2. <hi>By regulating and compoſing of our Paſſions.</hi>
+               </item>
+               <item>3. <hi>By aſſiſting of us in our uſeful Deſigns, and the relieving of us in our Wants.</hi>
+               </item>
+            </list>
+            <p n="1">1. Friendſhip doth improve our <hi>
+                  <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>standings,</hi> and rectifie our <hi>Judgments.</hi>
+            </p>
+            <p>
+               <hi>Iron ſharpeneth Iron, ſo a Man ſharpeneth</hi> 
+               <note place="margin">Prov. 27. 17.</note> 
+               <hi>the Countenance of his Friend .i. e.</hi> As Iron is ſharpened and brightened by Iron; ſo one Man's Parts are raiſed and improved by anothers.</p>
+            <p>Hence 'tis obſerved, That a Friendly Converſation, where Men communicate
+<pb n="9" facs="tcp:104620:9"/> their Notions with freedom, is of much greater Advantage to true and uſeful Knowledge, than either Reading or Me<g ref="char:EOLhyphen"/>ditation.</p>
+            <p>I grant indeed that both Reading and Meditation are neceſſary; and 'tis as vain to pretend to Learning without them, as it is to build without a Foundation. But that which I deſign ſhall be expreſſed in the words of the Great Lord <hi>Verulam: Reading</hi> may make a full and copious Man, and <hi>Meditation</hi> a profound Man; but 'tis <hi>Diſ<g ref="char:EOLhyphen"/>courſe</hi> that makes a clear, diſtinct and uſe<g ref="char:EOLhyphen"/>ful Man.</p>
+            <p>In Confirmation of this 'tis obſerved, That ſeveral Perſons have been highly ac<g ref="char:EOLhyphen"/>compliſh'd in moſt parts of Converſation, and have been very uſeful to the Publick, without any great ſhare of Bookiſh Learn<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Which I do not mention with the leaſt Deſign to diſcourage true Learning; but to rectifie and improve it. For Reading without Diſcourſe, is like Eating without Digeſtion; which only loads the Body,
+<pb n="10" facs="tcp:104620:10"/> obſtructs the Paſſages, and impairs the ſtate of Health inſtead of advancing it.</p>
+            <p>Now that which Digeſtion is to the Body, Diſcourſe is to the Mind. By which word, I do not only mean private Diſcourſe with a Man's own Thoughts; which we call Meditation or Thinking (a moſt pleaſing as well as profitable kind of Diſcourſe): But by Diſcourſe, I de<g ref="char:EOLhyphen"/>note <hi>external</hi> Diſcourſe; expreſſed by out<g ref="char:EOLhyphen"/>ward Converſation with others.</p>
+            <p>By this Converſation we open our Breaſts, unfold our Notions, bring them out into the Light, to be conſidered and examined by others: Which is a moſt prudent and modeſt Practice.</p>
+            <p>For we are all of us too apt to think well of our ſelves, and have a ſtrange fondneſs for the Iſſue of our own Brain.</p>
+            <p>But when our Projects are brought to light, and communicated to others, then the Sagacity and Faithfulneſs of a Friend, diſcovers and rectifies our Errors and Mi<g ref="char:EOLhyphen"/>ſtakes.</p>
+            <p n="2">
+               <pb n="11" facs="tcp:104620:10"/> 2. Another Advantage of Friendſhip is <hi>the regulating and compoſing of our Paſſions.</hi> The tumults and diſorders of which Paſ<g ref="char:EOLhyphen"/>ſions are the cauſe of all our Miſery; as being the chief Ingredients of our Sor<g ref="char:EOLhyphen"/>rows, both in this World and in the next.</p>
+            <p>The Frenzy of <hi>Anger,</hi> the Feaver of <hi>Love,</hi> the Conſumption of <hi>Envy,</hi> the Aguiſh Vici<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſitudes of <hi>Hopes</hi> and <hi>Fears,</hi> are the noted Diſeaſes and Diſtempers of our Mind.</p>
+            <p>Now by opening our Breaſts with free<g ref="char:EOLhyphen"/>dom to our Friend, and by giving vent to our Paſſions, we aſſiſt his charitable Incli<g ref="char:EOLhyphen"/>nations to rectifie theſe Diſorders. For when he knows our State and our Cir<g ref="char:EOLhyphen"/>cumſtances, he will then by his friendly Advice compoſe our <hi>Anger,</hi> direct our <hi>Love,</hi> correct our <hi>Envy,</hi> regulate our <hi>Hopes,</hi> and divert our <hi>Fears.</hi>
+            </p>
+            <p n="3">3. Friendſhip doth aſſiſt us in our uſe<g ref="char:EOLhyphen"/>ful Deſigns, and relieves our Defects.</p>
+            <p>I doubt not but you are all fully con<g ref="char:EOLhyphen"/>vinced, that you were not ſent into this
+<pb n="12" facs="tcp:104620:11"/> World only to pleaſe your ſelves, and to gratifie your own ſenſual Inclinations; but that it is your Duty, in all your Actions, to glorifie God, and do Good to others.</p>
+            <p>Eſpecially you that are Gentlemen, whom God hath entruſted with the Ta<g ref="char:EOLhyphen"/>lents of Authority and Eſtates beyond and above other Men, you I ſay, are more eſpecially obliged to be faithful to this your Truſt, by laying out your Eſtates, and uſing your Power in ſuch a manner, as may make you even a Bleſſing to the Age you live in.</p>
+            <p>But when you come <hi>ad practicandum,</hi> and project any particular Advantage, ei<g ref="char:EOLhyphen"/>ther to the Neighbourhood or the World; then, from the Envy or Deſigns of others, you ſhall quickly encounter ſuch Oppoſi<g ref="char:EOLhyphen"/>tion, as will convince you of your Weak<g ref="char:EOLhyphen"/>neſs, and how neceſſary it is to call in the Help of others to ſupply your own Defects.</p>
+            <p>From hence the neceſſity of Friendſhip is undeniably eſtabliſhed. For on ſuch an
+<pb n="13" facs="tcp:104620:11"/> Occaſion, a Stranger is not proper to be conſulted, who may not know the whole State of your Buſineſs, nor the <hi>Series</hi> and Circumſtances of your Affairs. Much leſs is an Enemy to be truſted; who will only betray you, and undermine your De<g ref="char:EOLhyphen"/>ſigns.</p>
+            <p>But the aſſiſtance of a faithful prudent Friend, will effectually ſupport you, in all your Difficulties, and in all your Wants.</p>
+            <p>I might add much more of the Nature and Excellency of Friendſhip, by repre<g ref="char:EOLhyphen"/>ſenting, that it is the chief Ingredient of our Happineſs in Heaven, where the Bleſ<g ref="char:EOLhyphen"/>ſed Angels, and Spirits of Juſt Men made perfect, by their mutual Converſation, enjoy the Perfection of Friendſhip to all Eternity.</p>
+            <p>But this is too noble a Theme for any Humane Expreſſion. This Heavenly Friendſhip is beſt explained by being pra<g ref="char:EOLhyphen"/>ctiſed. And God grant that <hi>your</hi> Gene<g ref="char:EOLhyphen"/>rous Inclinations may make the Experi<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="14" facs="tcp:104620:12"/>
+            <p> Do you begin and continue a true Chri<g ref="char:EOLhyphen"/>ſtian Friendſhip in this World; and through the Mercy of God, and the Me<g ref="char:EOLhyphen"/>rits of Jeſus Chriſt, it ſhall be compleated in the next.</p>
+            <p>I am now addreſſing my ſelf to Gentle<g ref="char:EOLhyphen"/>men, who have this Obligation to Friend<g ref="char:EOLhyphen"/>ſhip amongſt others, that they are <hi>Country-Men.</hi> Either born in, or Inhabitants of the ſame County.</p>
+            <p>A County, which is not only one of the Largeſt, but alſo one of the Richeſt and moſt Flouriſhing Counties of the whole Kingdom. And that whether you conſider the Fruitfulneſs of the Soil, the Number and Diſpoſition of the Inhabitants, and the Priviledges you enjoy.</p>
+            <p>The Fruitfulneſs of the Soil doth ap<g ref="char:EOLhyphen"/>pear in the Riches of the Inhabitants; ſince one of your Yeomans doth rival the Gentry of other Counties.</p>
+            <p>The Diſpoſition of the Inhabitants is thus deſcribed by <hi>Malmsburienſis,</hi> an an<g ref="char:EOLhyphen"/>cient Writer: <hi>The Country-People, and the Town-Dwellers of</hi> Kent, <hi>retain the Spirit of</hi>
+               <pb n="15" facs="tcp:104620:12"/> 
+               <hi>that ancient Nobility, above the reſt of the Engliſh; being more ready to afford a Respect and kind Entertainment to others, and leſs in<g ref="char:EOLhyphen"/>clinable to revenge Injuries.</hi>
+            </p>
+            <p>Their not revenging of Injuries is an evident Proof of their Courage. Which is thus confirmed by <hi>John</hi> of <hi>Salisbury</hi> in his <hi>Polycraticon.</hi>
+            </p>
+            <p>
+               <hi>As a Reward</hi> (ſaith he) <hi>of that ſignal Courage which our</hi> Kent <hi>with great eagerneſs and ſteadineſs ſhewed againſt the</hi> Danes, <hi>they do to this Day lay claim to the Honour of the firſt Ranks, and the firſt Onſet in all Engage<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>But omitting other Inſtances, I ſhall on<g ref="char:EOLhyphen"/>ly remind you of the Courage and Bravery of your Anceſtors, when <hi>William</hi> Duke of <hi>Normandy</hi> invaded <hi>England.</hi>
+            </p>
+            <p>The Duke (for <hi>I</hi> will not call him your Conqueror) after the famous Battle near <hi>Haſtings,</hi> (where King <hi>Harold</hi> was ſlain) immediately began his March towards <hi>London:</hi> And entring into the <hi>Weald,</hi> or Woody Part of <hi>Kent,</hi> and advancing with his Vanguard before the reſt of his Army,
+<pb n="16" facs="tcp:104620:13"/> he found himſelf almoſt environed with mighty Numbers of the <hi>Kentiſh Men,</hi> who had concealed themſelves in the Wood, by carrying every Man a great Bough of a Tree, like a Shield in his Hand.</p>
+            <p>But when they ſaw the <hi>Norman Troops,</hi> and the Duke at the Head of them, with<g ref="char:EOLhyphen"/>in their Danger, they began on a ſudden to march like a moving Wood; till ap<g ref="char:EOLhyphen"/>proaching their Enemies, they threw down their Boughs, and diſcovered on all ſides a Multitude of brave armed Men, ready to charge the <hi>Normans,</hi> that ſtood ſurpri<g ref="char:EOLhyphen"/>zed and amazed at the ſtrangeneſs of the Sight; which appeared as if a Wood had been, by ſome Enchantment, transformed into an Army.</p>
+            <p>But the <hi>Kentiſh-Men</hi> approaching, to ſhew that they had Conduct as well as Valour, made a Halt; and ſent the Abbot of St. <hi>Auſtins</hi> to tell the Duke, that all the Men of that Province were there aſ<g ref="char:EOLhyphen"/>ſembled to defend their Country and their Liberties; or, to ſell their Lives as dear as they could. But if he would ſwear to
+<pb n="17" facs="tcp:104620:13"/> preſerve them in thoſe ancient Laws and Cuſtoms, under which they and their Anceſtors had ſo long lived, they were then all ready to lay down their Arms, and become his Subjects. If not; he muſt prepare to fight with Men that had reſolved to loſe their Lives, rather than their Liberties and Laws.</p>
+            <p>The Duke finding he was too far ad<g ref="char:EOLhyphen"/>vanced to joyn the Body of his Army before he engaged, and unwilling to ven<g ref="char:EOLhyphen"/>ture all his Hopes and Fortunes, againſt ſuch numerous Bands of deſperate Men, of ſuch Courage and Reſolution as theſe appeared to be; He granted to all the In<g ref="char:EOLhyphen"/>habitants of the Province of <hi>Kent,</hi> the Preſervation and free Enjoyment of all their ancient Laws and Cuſtoms under the <hi>Saxon</hi> Reigns. He ſwore the Obſer<g ref="char:EOLhyphen"/>vance of his Grant, received their Ho<g ref="char:EOLhyphen"/>mage, and ſo purſued his March.</p>
+            <p>Thus I have preſumed to be your Hi<g ref="char:EOLhyphen"/>ſtorian as well as your Preacher, in giving this ſhort Account of thoſe Green Boughs, which this Day are carried before you:
+<pb n="18" facs="tcp:104620:14"/> as Lawrels and Trophies of your Ance<g ref="char:EOLhyphen"/>ſtors Victory, and your Liberties.</p>
+            <p>And may theſe Boughs be ever Green. May theſe your Lawrels ſtill flouriſh. And may you, Worthy Gentlemen, ſtill continue what you are: Firm to your Religion, the Religion of the Church of <hi>England,</hi> Loyal to your King, and an Ornament to your Country.</p>
+            <p>And having done this Right to your Worth and County; Give me leave now to be your humble Remembrancer of ano<g ref="char:EOLhyphen"/>ther Deſign of this Day's Solemnity: <hi>viz.</hi>
+            </p>
+            <p n="2">II. Secondly, <hi>To promote Charity.</hi>
+            </p>
+            <p>Which I ſhall at preſent commend to your Practice only from theſe Two To<g ref="char:EOLhyphen"/>picks.</p>
+            <p n="1">1. <hi>Charity is the best and ſurest Expedient to preſerve your Eſtates in this Life.</hi>
+            </p>
+            <p n="2">2. <hi>You have a comfortable aſſurance, that your Charity ſhall be rewarded in the Life to come.</hi>
+            </p>
+            <p n="1">
+               <pb n="19" facs="tcp:104620:14"/> 1. <hi>Charity is the beſt Expedient to preſerve your Estates.</hi>
+            </p>
+            <p>When you purchaſe an Eſtate, your firſt Concern is to find out a good Title; and then you are no leſs ſollicitous to con<g ref="char:EOLhyphen"/>vey that Title firmly, to you and your Heirs for ever.</p>
+            <p>But let me with freedom tell you, That Charity is your beſt Tenure; and will continue a Name, and perpetuate a Fa<g ref="char:EOLhyphen"/>mily more firmly, than all your <hi>Fines,</hi> and <hi>Vouchers,</hi> and <hi>Entails</hi> (thoſe clenching Nails of the Law) can pretend to. For alas! How ſlight a Title is a Legal Right? How ſlender Security is the firmeſt Con<g ref="char:EOLhyphen"/>veyance againſt deſtructive Caſualties?</p>
+            <p>Will you charm a Thief with Paper and Parchment? Or, will it ſtop the de<g ref="char:EOLhyphen"/>vouring Flames to tell them, that you have an unqueſtionable <hi>Deed of Sale;</hi> and that this Houſe which they are now ready to conſume, is ſettled upon <hi>you</hi> and your <hi>Heirs</hi> for ever?</p>
+            <p>Will an aſtoniſhing Earthquake, when God gives it a Commiſſion to ſwallow up,
+<pb n="20" facs="tcp:104620:15"/> be fixed and firm at the Pleadings of your Learned Council?</p>
+            <p>Will the Winds grow calm, and the Sea huſh and be ſtill; or a Roving Pirate ceaſe his Purſuit, becauſe the Ship and its Cargoe are the Property of its Own<g ref="char:EOLhyphen"/>ers?</p>
+            <p>Do not theſe and ſuch like Inſtances, effectually convince you, That <hi>God's Pro<g ref="char:EOLhyphen"/>vidence is your beſt Inſurance?</hi> Can any Power leſs than his preſerve you, from that Violence and Treachery, thoſe Cala<g ref="char:EOLhyphen"/>mities and Dangers, with which your Wealth is ſurrounded?</p>
+            <p>Think ſeriouſly upon it, and <hi>you</hi> will then confeſs, It is <hi>your</hi> Intereſt as well as Duty, by Acts of Charity to ſecure the Divine Protection, which alone is able to preſerve <hi>your</hi> Eſtates. <hi>Bleſſed is he that</hi> 
+               <note place="margin">Pſal. 41. 1, 2.</note> 
+               <hi>conſidereth the Poor; the Lord will deliver him in time of trouble. The Lord will preſerve him; and keep him alive, and he ſhall be bleſſed upon the Earth; and thou wilt not deliver him unto the Will of his Enemies.</hi>
+            </p>
+            <p n="2">
+               <pb n="21" facs="tcp:104620:15"/> 2. The higheſt and moſt preſſing Mo<g ref="char:EOLhyphen"/>tive to Charity, <hi>is the comfortable Aſſurance, that it ſhall be rewarded in the Life to come.</hi>
+            </p>
+            <p>As preparatory to <hi>your</hi> Conviction I muſt remind <hi>you,</hi> That <hi>you</hi> are frail and mortal as well as others.</p>
+            <p>Which I ſhall expreſs in the words of the Learned and Pious Dr. <hi>Iſaac Barrow.</hi> And I do deſignedly repeat his words at this time, becauſe by the Mothers ſide, this Eminent Man was of your County. His Words are theſe: <q>After a very <note place="margin">
+                     <hi>V.</hi> Barrow<hi>'s Bounty to the Poor,</hi> p. 160.</note> ſhort time <hi>your</hi> Thread will be ſpun out; and then <hi>you</hi> ſhall be rifled and quite ſtript of all; <hi>you</hi> ſhall <hi>be laid out</hi> ſtark naked, as when <hi>you</hi> came into the World. <hi>You</hi> ſhall not carry with <hi>you</hi> one grain of <hi>your</hi> gliſtering Metals, nor one rag of <hi>your</hi> gaudy Stuff. <hi>Your</hi> ſtate<g ref="char:EOLhyphen"/>ly Houſes, <hi>your</hi> fine Gardens, and <hi>your</hi> ſpacious Walks, muſt all be exchanged for a cloſe Hole under Ground. <hi>You</hi> muſt for ever bid farewel to <hi>your</hi> Pomps and Magnificences; to <hi>your</hi> Feaſts and Jollities; to <hi>your</hi> Sports and Paſtimes.
+<pb n="22" facs="tcp:104620:16"/> Not one of all <hi>your</hi> numerous and ſplen<g ref="char:EOLhyphen"/>did Retinue; no Companion of <hi>your</hi> Pleaſures, no Admirer of <hi>your</hi> Fortune, no Flatterer of <hi>your</hi> Vices can wait up<g ref="char:EOLhyphen"/>on <hi>you:</hi> But deſolate and unattended, <hi>you</hi> muſt go down into the Chambers of Darkneſs. Thus that Learned Perſon.</q>
+            </p>
+            <p>Being thus convinced that <hi>you</hi> muſt cer<g ref="char:EOLhyphen"/>tainly Dye; the next Thought is to con<g ref="char:EOLhyphen"/>ſider, (and it is a weighty Thought) Whi<g ref="char:EOLhyphen"/>ther are <hi>you</hi> going when <hi>you</hi> leave this World? Into what unknown Regions is <hi>your</hi> next remove?</p>
+            <p>And then, ſince Perſons of <hi>your</hi> Figure do love to be well treated, 'tis methodical to inquire; What kind of Entertainment are <hi>you</hi> then to expect? What Prepara<g ref="char:EOLhyphen"/>tions have <hi>you</hi> made for <hi>your</hi> Reception there?</p>
+            <p>Perſons of Honour and Quality, in their Progreſs or their Journey, do give Notice of their approach to ſuch or ſuch a Place, and ſend their Harbingers before to make Proviſion for them; that ſo they may be received with Decency, and accord<g ref="char:EOLhyphen"/>ing to their Quality.</p>
+            <pb n="23" facs="tcp:104620:16"/>
+            <p> Let us now examine, Whether <hi>you</hi> are as wiſe for the Life to come, as <hi>you</hi> are for this.</p>
+            <p>We are all Strangers in this World, and <hi>have here no continuing City;</hi> but as Pilgrims and Sojourners are Travelling to <hi>a better Country.</hi> Now thoſe who Travel into Fo<g ref="char:EOLhyphen"/>reign Parts, do either ſend ſome Effects before them, or elſe do carry along with them <hi>Bills</hi> of <hi>Credit,</hi> which they take up in the Coin or Commodities of thoſe Coun<g ref="char:EOLhyphen"/>tries, as they have occaſion.</p>
+            <p>Indeed in this World, <hi>Money anſwereth all things.</hi> But there is ſomething elſe which <hi>anſwereth all things</hi> in the next: <hi>viz.</hi> Alms and Charitable Diſtributions.</p>
+            <p>Theſe are your Exchange for the other World, and the <hi>Bills</hi> and Effects you are to ſend before you. Theſe (in the Traders Language) are ſuch Bills, as <hi>will certainly be accepted.</hi> Or (in Scripture Phraſe) <hi>ſhall be recompenſed at the Reſurrection of the Juſt.</hi>
+            </p>
+            <p>By thus giving Alms, you <hi>provide your</hi> 
+               <note place="margin">Luke 12. 33.</note> 
+               <hi>ſelves Bags which wax not old; a Treaſure in the Heavens that faileth not, where no Thief</hi>
+               <pb n="24" facs="tcp:104620:17"/> 
+               <hi>approacheth, neither Moth corrupteth.</hi> By this faithful uſage of the <hi>Mammon of <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>righteouſneſs, you make your ſelves Friends, that when ye fail</hi> (when ye Dye, when you leave your Houſes, and your Lands behind you) <hi>will receive you</hi> (will cauſe you to be received) <hi>into Everlaſting Habitations</hi> Which God grant to us All.</p>
+            <closer>
+               <hi>Now to God the Father, God the Son, and God the Holy Ghost, Three Perſons, but One Glorious God, be aſcribed, as is moſt due, all Honour, Power, and Praiſe, henceforth and for ever.</hi> Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104620:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
